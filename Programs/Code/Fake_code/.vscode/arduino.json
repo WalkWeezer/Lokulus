@@ -1,7 +1,0 @@
-{
-    "sketch": "fake_lokolus.ino",
-    "configuration": "cpu=atmega2560",
-    "board": "arduino:avr:mega",
-    "programmer": "arduino:avrispmkii",
-    "port": "COM6"
-}
