@@ -1,6 +1,0 @@
-{
-    "sketch": "led.ino",
-    "board": "arduino:avr:mega",
-    "port": "COM11",
-    "configuration": "cpu=atmega2560"
-}
